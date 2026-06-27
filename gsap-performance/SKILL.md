@@ -1,6 +1,6 @@
 ---
 name: gsap-performance
-description: Official GSAP skill for performance — prefer transforms, avoid layout thrashing, will-change, batching. Use when optimizing GSAP animations, reducing jank, or when the user asks about animation performance, FPS, or smooth 60fps.
+description: Optimize GSAP animations for 60fps — transforms over layout properties, will-change, batching, render scheduling, scroll-trigger perf. Use ONLY when the project uses GSAP and the user reports jank or wants smoother animation performance. For other libraries use `framer-motion-animator`; for motion design principles (when/why to animate) use `animate`; for animation best-practice rules use `emilkowal-animations`.
 license: MIT
 ---
 

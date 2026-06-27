@@ -1,6 +1,6 @@
 ---
 name: bolder
-description: Amplify safe or boring designs to make them more visually interesting and stimulating. Increases impact while maintaining usability. Use when the user says the design looks bland, generic, too safe, lacks personality, or wants more visual impact and character.
+description: Amplify safe, bland, or generic designs into something visually striking and high-impact — bigger typography, bolder color, more confident compositions. Use when the user says a design looks bland, generic, too safe, lacks personality, or wants more visual punch. Pairs with `quieter` for the inverse. Do NOT use to remove elements (`distill`), tone down intensity (`quieter`), add micro-interactions (`delight`), or do a final-pass fix (`polish`).
 version: 2.1.1
 user-invocable: true
 argument-hint: "[target]"

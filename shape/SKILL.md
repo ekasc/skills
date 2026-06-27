@@ -1,6 +1,6 @@
 ---
 name: shape
-description: Plan the UX and UI for a feature before writing code. Runs a structured discovery interview, then produces a design brief that guides implementation. Use during the planning phase to establish design direction, constraints, and strategy before any code is written.
+description: Plan the UX and UI for a DEFINED feature through a structured discovery interview, producing a design brief that guides implementation. Use AFTER `brainstorming` once intent is clear and the work shifts to UI/UX direction. For throwaway code to explore options use `prototype`; for ambiguous intent use `brainstorming`; for the broader UI/UX orchestrator use `impeccable`.
 version: 2.1.1
 user-invocable: true
 argument-hint: "[feature to shape]"

@@ -1,6 +1,6 @@
 ---
 name: accessibility-compliance
-description: Implement WCAG 2.2 compliant interfaces with mobile accessibility, inclusive design patterns, and assistive technology support. Use when auditing accessibility, implementing ARIA patterns, building for screen readers, or ensuring inclusive user experiences.
+description: Implement WCAG 2.2 compliant interfaces — ARIA patterns, screen reader support, keyboard navigation, focus management, color contrast, mobile a11y. Use when the user explicitly wants accessibility work (a11y audits, ARIA, screen readers) or is building for assistive tech. For a general UI quality check that includes a11y use `audit`; for an a11y-only score use this skill directly.
 ---
 
 # Accessibility Compliance

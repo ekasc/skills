@@ -1,6 +1,6 @@
 ---
 name: critique
-description: Evaluate design from a UX perspective, assessing visual hierarchy, information architecture, emotional resonance, cognitive load, and overall quality with quantitative scoring, persona-based testing, automated anti-pattern detection, and actionable feedback. Use when the user asks to review, critique, evaluate, or give feedback on a design or component.
+description: Evaluate a design from a UX perspective — visual hierarchy, information architecture, emotional resonance, cognitive load. Produces persona-based feedback and subjective scoring. Use when the user asks 'how does this feel', wants design feedback, or wants a UX review rather than a technical check. For technical checks (a11y, perf, anti-patterns) use `audit`; for code-level issues use `code-security-quality-audit`.
 version: 2.1.1
 user-invocable: true
 argument-hint: "[area (feature, page, component...)]"

@@ -1,6 +1,6 @@
 ---
 name: code-security-quality-audit
-description: "Strict, language-agnostic security and code quality audit + repair loop. Find real issues, fix root causes, verify, pattern-search, repeat."
+description: Strict security and code-quality audit + repair loop on source code. Find real vulnerabilities and quality issues, fix root causes, verify, pattern-search, repeat. Use when auditing code for security (auth, input handling, secrets, payments) or general code-quality issues. For UI/UX quality use `audit`; for runtime perf use `web-perf`; for pre-build security review use `security-review`.
 version: 1.0.0
 author: ekasc
 license: MIT

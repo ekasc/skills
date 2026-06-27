@@ -1,6 +1,6 @@
 ---
 name: audit
-description: Run technical quality checks across accessibility, performance, theming, responsive design, and anti-patterns. Generates a scored report with P0-P3 severity ratings and actionable plan. Use when the user wants an accessibility check, performance audit, or technical quality review.
+description: Run a technical UI quality check across accessibility, theming, responsive design, and common anti-patterns. Produces a P0–P3 scored report. Use when the user wants an a11y check, design-system audit, or anti-pattern review. For runtime perf metrics (LCP/INP/CLS) use `web-perf`; for security/code quality use `code-security-quality-audit`; for subjective UX feedback use `critique`; for raw UI slowness fixes use `optimize`; for explicit a11y work use `accessibility-compliance`.
 version: 2.1.1
 user-invocable: true
 argument-hint: "[area (feature, page, component...)]"

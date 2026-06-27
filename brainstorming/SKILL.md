@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+description: Explore user intent, requirements, and the design space before any creative work. Use FIRST when the user wants to create a feature, build a component, add functionality, or modify behavior and the request is ambiguous or under-specified. For a concrete UI/UX brief of a DEFINED feature use `shape`; for throwaway code to explore options use `prototype`; for the UI/UX orchestrator use `impeccable`.
 ---
 
 # Brainstorming Ideas Into Designs

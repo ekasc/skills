@@ -1,6 +1,6 @@
 ---
 name: optimize
-description: Diagnoses and fixes UI performance across loading speed, rendering, animations, images, and bundle size. Use when the user mentions slow, laggy, janky, performance, bundle size, load time, or wants a faster, smoother experience.
+description: Diagnose and fix UI performance — slow loads, jank, large bundles, unoptimized images, animation lag — at the code/config level. Use when the user reports slowness, laggy UI, or wants a faster experience. For Core Web Vitals / Lighthouse / DevTools profiling use `web-perf`; for GSAP-specific perf use `gsap-performance`; for React/Next.js patterns use `vercel-react-best-practices`; for React Native use `vercel-react-native-skills`.
 version: 2.1.1
 user-invocable: true
 argument-hint: "[target]"

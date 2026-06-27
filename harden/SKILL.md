@@ -1,6 +1,6 @@
 ---
 name: harden
-description: Make interfaces production-ready: error handling, empty states, onboarding flows, i18n, text overflow, and edge case management. Use when the user asks to harden, make production-ready, handle edge cases, add error states, design empty states, improve onboarding, or fix overflow and i18n issues.
+description: Make interfaces production-ready — error, empty, and loading states, edge cases, i18n, text overflow, and resilience to bad input. Use when the user says 'harden it', 'make production-ready', wants edge-case coverage, or asks to add error/empty states. Do NOT use for visual alignment/spacing (`polish`), visual intensity (`bolder`/`quieter`), or onboarding copy/flow design (`onboard`).
 version: 2.1.1
 user-invocable: true
 argument-hint: "[target]"

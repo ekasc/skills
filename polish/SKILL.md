@@ -1,6 +1,6 @@
 ---
 name: polish
-description: Performs a final quality pass fixing alignment, spacing, consistency, and micro-detail issues before shipping. Use when the user mentions polish, finishing touches, pre-launch review, something looks off, or wants to go from good to great.
+description: Final pre-launch quality pass — fix alignment, spacing, consistency, and micro-detail issues (off-by-one pixels, mismatched tokens, broken hover states). Use when the user says 'polish it', wants pre-launch review, or asks to go from good to great without changing direction. Do NOT use to redesign (`bolder`), simplify (`distill`), add personality (`delight`), or harden error/empty states (`harden`).
 version: 2.1.1
 user-invocable: true
 argument-hint: "[target]"

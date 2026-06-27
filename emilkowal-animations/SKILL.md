@@ -1,6 +1,6 @@
 ---
 name: emilkowal-animations
-description: Emil Kowalski's animation best practices for web interfaces. Use when writing, reviewing, or implementing animations in React, CSS, or Framer Motion. Triggers on tasks involving transitions, easing, gestures, toasts, drawers, or motion.
+description: Apply Emil Kowalski's 43 animation rules (transitions, easing, gestures, toasts, drawers, motion) when writing, reviewing, or refining a SPECIFIC animation. Use as a quality/review lens for an existing or planned animation, or when the user references animation craft. For library implementation use `framer-motion-animator` (React) or `gsap-performance` (GSAP); for general motion design principles use `animate`.
 ---
 
 # Emil Kowalski Animation Best Practices

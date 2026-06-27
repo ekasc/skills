@@ -1,6 +1,6 @@
 ---
 name: colorize
-description: Add strategic color to features that are too monochromatic or lack visual interest, making interfaces more engaging and expressive. Use when the user mentions the design looking gray, dull, lacking warmth, needing more color, or wanting a more vibrant or expressive palette.
+description: Add strategic color to a monochromatic or dull UI — meaningful accent palettes, contrast, and color hierarchy. Use when the user says the design is gray, dull, monochrome, lacks warmth, or asks for a more vibrant palette. Do NOT use to amplify overall visual impact (`bolder`) or to tone down color (`quieter`).
 version: 2.1.1
 user-invocable: true
 argument-hint: "[target]"

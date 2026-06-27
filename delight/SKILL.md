@@ -1,6 +1,6 @@
 ---
 name: delight
-description: Add moments of joy, personality, and unexpected touches that make interfaces memorable and enjoyable to use. Elevates functional to delightful. Use when the user asks to add polish, personality, animations, micro-interactions, delight, or make an interface feel fun or memorable.
+description: Add personality, micro-interactions, copy flourishes, and unexpected touches that make an interface feel memorable and fun. Use when the user asks to make a UI feel fun, memorable, joyful, or full of personality, or wants polish beyond pure function. Do NOT use to add raw visual impact (`bolder`), remove clutter (`distill`), or do a strict alignment/spacing pass (`polish`).
 version: 2.1.1
 user-invocable: true
 argument-hint: "[target]"

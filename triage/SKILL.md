@@ -1,6 +1,6 @@
 ---
 name: triage
-description: Triage issues through a state machine driven by triage roles. Use when user wants to create an issue, triage issues, review incoming bugs or feature requests, prepare issues for an AFK agent, or manage issue workflow.
+description: Move issues through a triage state machine (intake → review → ready) on the project issue tracker. Use when triaging incoming bugs/features, preparing issues for an AFK agent, or managing issue workflow. For breaking a plan into NEW issues use `to-issues`; for creating a PRD use `to-prd`; for code-level bug diagnosis use `diagnose`.
 ---
 
 # Triage

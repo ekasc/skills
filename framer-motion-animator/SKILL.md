@@ -1,6 +1,6 @@
 ---
 name: framer-motion-animator
-description: Creates smooth animations and micro-interactions using Framer Motion including page transitions, gestures, scroll-based animations, and orchestrated sequences. Use when users request "add animation", "framer motion", "page transition", "animate component", or "micro-interactions".
+description: Implement animations, page transitions, gestures, and orchestrated sequences using the Framer Motion library. Use when the user requests Framer Motion or `motion` by name, or when an animation task in a React project is best served by Framer Motion's declarative API. For motion design principles (when/why to animate) use `animate`; for animation best-practice rules use `emilkowal-animations`; for GSAP projects use `gsap-performance`.
 ---
 
 # Framer Motion Animator

@@ -1,6 +1,6 @@
 ---
 name: animate
-description: Review a feature and enhance it with purposeful animations, micro-interactions, and motion effects that improve usability and delight. Use when the user mentions adding animation, transitions, micro-interactions, motion design, hover effects, or making the UI feel more alive.
+description: Apply purposeful animation, motion, and micro-interactions to make a UI feel more alive. Library-agnostic — covers the WHY and WHEN of motion (hovers, transitions, scroll, loading states) and how to decide if motion is needed. Use when the user wants to add animation or motion design without naming a specific library, or to audit whether existing motion is purposeful. For Framer Motion implementation use `framer-motion-animator`; for GSAP performance use `gsap-performance`; for animation best-practice rules use `emilkowal-animations`.
 version: 2.1.1
 user-invocable: true
 argument-hint: "[target]"
