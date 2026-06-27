@@ -40,6 +40,10 @@ A curated collection of specialized agent skills. Each skill provides domain-spe
 - **shape** — Plan UX and UI for a feature via structured discovery before writing code.
 - **ui-ux-pro-max** — Comprehensive UI/UX design intelligence (50+ styles, color palettes, font pairings, UX guidelines).
 
+## Image Generation
+
+- **imagegen-frontend** — Generate premium frontend design references. Three registers: web (landing pages, marketing sites, product comps — one image per section), mobile (iOS/Android app screens in phone mockups, multi-screen flows), and brand (identity boards, logo systems, presentation decks). Passes visual direction to `impeccable craft` for implementation.
+
 ## Process & Communication
 
 - **brainstorming** — Explore user intent, requirements, and design before implementation. Run before creative work.

@@ -206,6 +206,18 @@ Go through systematically:
 
 **IMPORTANT**: Polish is about details. Zoom in. Squint at it. Use it yourself. The little things add up.
 
+### Fix-Priority Order
+
+Apply changes in this order for maximum visual impact with minimum risk:
+
+1. **Font swap** — biggest instant improvement, lowest risk
+2. **Color palette cleanup** — remove clashing or oversaturated colors
+3. **Hover and active states** — makes the interface feel alive
+4. **Layout and spacing** — proper grid, max-width, consistent padding
+5. **Replace generic components** — swap cliche patterns for modern alternatives
+6. **Add loading, empty, and error states** — makes it feel finished
+7. **Polish typography scale and spacing** — the premium final touch
+
 Sweat the details. Zoom in until the alignment is right and the spacing reads as deliberate. Then ship.
 
 **NEVER**:

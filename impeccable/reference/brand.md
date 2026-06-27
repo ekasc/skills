@@ -106,3 +106,25 @@ Brand can afford things product can't. Take them.
 - Single-purpose viewports. One dominant idea per fold, long scroll, deliberate pacing.
 - Unexpected color strategies. Palette IS voice; a calm brand and a restless brand should not share palette mechanics.
 - Art direction per section. Different sections can have different visual worlds if the narrative demands it. Consistency of voice beats consistency of treatment.
+
+### Aesthetic register: Industrial Brutalism / Tactical Telemetry
+
+For briefs that read as mechanical, technical, or industrial (data-heavy dashboards, blueprints, military terminal aesthetics). Reach for this register when the vibe calls for Swiss typographic print welded to declassified-hardware language.
+
+- **Palette (light):** matte paper (`#F4F4F0`), carbon ink (`#050505`), aviation red accent (`#E61919`)
+- **Palette (dark):** deactivated CRT (`#121212`), white phosphor (`#EAEAEA`), red accent (`#E61919`), optional terminal green (`#4AF626`) for exactly one data element
+- **Typography:** Neo-grotesque sans for macro-headers (Neue Haas, Archivo Black, Monument Extended) at massive scale with tight tracking; monospace for data (JetBrains Mono, IBM Plex Mono) at small fixed sizes. All uppercase.
+- **Layout:** Strict CSS Grid, 0px border-radius, visible 1-2px borders compartmentalizing zones. Bimodal density: extreme packed data next to vast macro-whitespace.
+- **Signature moves:** ASCII frame decoration (`[ DELIVERY SYSTEMS ]`, `>>>`); halftone or 1-bit dithering on imagery; CRT scanlines via `repeating-linear-gradient`; optional mechanical noise overlay on a fixed `pointer-events-none` layer.
+- **Banned:** gradients, drop shadows, border-radius, translucency, standard nav patterns, consumer UI conventions.
+
+### Aesthetic register: Premium Utilitarian Minimalism / Editorial UI
+
+For briefs that read as editorial, magazine-like, or premium-consumer-clean. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels.
+
+- **Palette:** warm bone/off-white canvas, pure white cards, ultra-light structural borders (`#EAEAEA`), off-black charcoal text (`#111`). Pastel accents: pale red (`#FDEBEC`), pale blue (`#E1F3FE`), pale green (`#EDF3EC`), pale yellow (`#FBF3DB`).
+- **Typography:** Sans-serif for body/UI (Geist, Helvetica Neue, Switzer); editorial serif for hero headings (Newsreader, Playfair Display, Instrument Serif) with tight tracking; monospace for code (Geist Mono, JetBrains Mono). Body text never pure black.
+- **Layout:** Asymmetrical CSS Grid bentos, cards with `1px solid #EAEAEA`, crisp 8-12px radius, generous internal padding (24-40px). `py-24` to `py-32` section gaps.
+- **Signature moves:** `<kbd>` micro-UIs for keystrokes; faux-OS window chrome for mockups; phosphor icons (bold/fill); monochromatic continuous-line ink illustrations on white.
+- **Motion:** Subtle scroll entry (12px y-translate + opacity, 600ms, cubic-bezier). Card hover lifts with near-invisible shadow shift. No bounce, no elastic, no spectacle.
+- **Banned:** Inter, Roboto, Open Sans; Lucide/Feather icons; default Tailwind shadows; primary-colored bg sections; gradients; neon; 3D glassmorphism; rounded-full on cards; emojis; generic placeholder content; AI copywriting clichés.
