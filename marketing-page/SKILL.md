@@ -1,7 +1,6 @@
 ---
 name: marketing-page
 description: "Design, build, and audit high-converting marketing pages and landing sites. Covers hero design, CTA psychology, social proof, section ordering, conversion optimization, accessibility, performance, and SEO. Use for startup landing pages, product pages, SaaS marketing, mobile app websites, or any conversion-focused page. Triggers: landing page, hero section, above the fold, conversion optimization, marketing site review, cta button, saas landing page."
-allowed-tools: Bash(infsh *)
 ---
 
 # Marketing Page Design & Review
