@@ -28,7 +28,6 @@ A curated collection of specialized agent skills. Each skill provides domain-spe
 ## UX Writing & Content
 
 - **clarify** — Improve unclear UX copy, error messages, labels, and instructions.
-- **humanizer** — Remove signs of AI-generated writing to make text sound natural and human-written.
 - **marketing-page** — Design, build, and audit high-converting marketing pages and landing sites. Covers hero design, CTA psychology, social proof, conversion optimization, accessibility, performance, and SEO.
 - **onboard** — Design onboarding flows, empty states, and first-run experiences.
 
