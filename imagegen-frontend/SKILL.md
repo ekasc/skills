@@ -1,6 +1,6 @@
 ---
 name: imagegen-frontend
-description: "Premium image-generation skill for frontend design references. Supports three registers — web (landing pages, marketing sites, product comps), mobile (iOS/Android app screens, multi-screen flows), and brand (identity boards, logo systems, presentation decks). The first word of the request gates the register: "landing page / website / hero" → web, "app / mobile / screen / flow" → mobile, "brand / logo / identity / deck" → brand. Never compress multiple sections into one image — the core rule is one image per section."
+description: "Premium image-generation skill for frontend design references. Supports three registers — web (landing pages, marketing sites, product comps), mobile (iOS/Android app screens, multi-screen flows), and brand (identity boards, logo systems, presentation decks). The first word of the request gates the register: \"landing page / website / hero\" → web, \"app / mobile / screen / flow\" → mobile, \"brand / logo / identity / deck\" → brand. Never compress multiple sections into one image — the core rule is one image per section."
 ---
 
 # HARD OUTPUT RULE — ONE IMAGE PER SECTION
