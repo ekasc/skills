@@ -1,6 +1,6 @@
 ---
 name: web-perf
-description: Audit page load performance using Chrome DevTools MCP — Core Web Vitals (LCP, INP, CLS), FCP, TBT, render-blocking resources, network waterfalls, layout shifts, caching. Use when the user asks for a Lighthouse-style audit, wants to debug real-user metrics, or needs a profile of an actual page. For code-level fixes use `optimize`; for React/Next patterns use `vercel-react-best-practices`; for technical UI quality use `audit`.
+description: Analyzes web performance using Chrome DevTools MCP. Measures Core Web Vitals (LCP, INP, CLS) and supplementary metrics (FCP, TBT, Speed Index), identifies render-blocking resources, network dependency chains, layout shifts, caching issues, and accessibility gaps. Use when asked to audit, profile, debug, or optimize page load performance, Lighthouse scores, or site speed. Biases towards retrieval from current documentation over pre-trained knowledge.
 ---
 
 # Web Performance Audit
